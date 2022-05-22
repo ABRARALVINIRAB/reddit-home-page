@@ -1,0 +1,63 @@
+.nav-container{
+    display: flex;
+    place-items: center;
+    justify-content: space-between;
+}
+.img-div{
+    width: 200px;
+    height: 60px;
+}
+.img-div img{
+    width: 100%;
+    height: 100%;
+}
+.search{
+    width: 800px;
+    height: 30px;
+    
+    
+}
+.search input{
+    width: 80%;
+    height: 100%;
+    background-color: gainsboro;
+}
+.login-btn{
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: white;
+    color: blue;
+    outline: none;
+    /* */
+}
+.sign-up-btn{
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    outline: none;
+}
+
+.main-section-container{
+    background-color: rgb(249, 236, 238) ;
+}
+.text-center{
+    text-align: center;
+}
+.give-margin{
+    margin-left: 20px;
+}
+.first-row-elements{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.second-row-elements{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+}
